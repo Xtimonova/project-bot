@@ -1,0 +1,2 @@
+pyTelegramBotAPI==3.7.1
+vk-api==11.8.0
